@@ -9,5 +9,5 @@ Execute saved poses
 
 Monitor real-time servo positions
 
-[!Flutter-servo-control](HS.png)
-[!Flutter-servo-control](RS.png)
+![Flutter-servo-control](HS.png)
+![Flutter-servo-control](RS.png)
