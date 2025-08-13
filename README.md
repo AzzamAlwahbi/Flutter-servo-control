@@ -30,3 +30,32 @@ Monitor real-time servo positions
 - Real-time display of servo angles during operation
 - Pose execution status indicator
 - Completion control to end pose execution
+
+## Usage Instructions
+- Adjust Servos:
+
+Drag sliders or input values directly for each servo
+
+Current angle shown above each servo control (e.g., "Servo 1: 50°")
+
+- Save Configuration:
+
+Set desired angles
+
+Click Save Pose and name your configuration
+
+- Execute Pose:
+
+Select saved pose from list
+
+Click Run to activate
+
+Monitor real-time angles in runtime view
+
+- During Operation:
+
+Check Active status indicator
+
+View current servo positions
+
+Press Complete Execution to finish
